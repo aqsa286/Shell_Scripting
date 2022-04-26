@@ -7,3 +7,5 @@ a=$(($a+$b))
 b=$(($a-$b))
 a=$(($a-$b))
 echo "Values after swapping: A=$a, B=$b"
+
+# Swapping
